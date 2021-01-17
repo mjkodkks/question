@@ -1,0 +1,30 @@
+.container {
+    padding: 10px;
+}
+
+.search-warpper {
+    margin: 10px 0;
+    width: 30%;
+
+    input {
+        width: 100%;
+    }
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+    td, th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+
+    th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #4CAF50;
+        color: white;
+    }
+}
